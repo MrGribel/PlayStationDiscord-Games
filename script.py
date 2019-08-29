@@ -8,28 +8,76 @@ title_ids = [
     'CUSA07022_00', # Fortnite
     'CUSA05042_00', # Destiny 2
     'CUSA11100_00', # Black Ops 4
-    'CUSA05969_00', # WWII
-    'CUSA04762_00', # Infinite Warfare
     'CUSA03522_00', # Modern Warfare Remastered
     'CUSA02290_00', # Black Ops 3
     'CUSA00803_00', # Advanced Warfare
-    'CUSA00018_00', # Ghosts
-    'CUSA08724_00'  # Battlefield V
+    'CUSA08724_00', # Battlefield V
+    'CUSA00110_00', # Battlefield 4
+    'CUSA00900_00', # Bloodborne
+    'CUSA02429_00', # Battlefield 1
+    'CUSA01760_00', # Dark Souls 2 SOFTS
+    'CUSA00359_00', # Until Dawn
+    'CUSA05218_00', # For Honor
+    'CUSA04220_00', # Sniper Elite 4
+    'CUSA02344_00', # Uncharted: Nathan Drake Collection
+    'CUSA03617_00', # Mafia III
+    'CUSA04013_00', # Titanfall 2
+    'CUSA02377_00', # Assasins Creed: Syndicate
+    'CUSA03041_00', # Red Dead Redemption 2
+    'CUSA10237_00', # Horizon Complete
+    'CUSA02299_00', # Spider-Man
+    'CUSA01163_00', # Rocket League
+    'CUSA01401_00', # Borderlands Handsome Collection
+    'CUSA03506_00', # GTA SA
+    'CUSA07408_00', # God Of War
+    'CUSA00527_00', # Witcher 3
+    'CUSA00419_00', # GTA V
+    'CUSA08344_00', # Detroit Become Human
+    'CUSA00113_00', # NFS Rivals
+    'CUSA02557_00', # Fallout 4
+    'CUSA03946_00', # Dying Light Enhanced
+    'CUSA02085_00', # DOOM
+    'CUSA00079_00', # Injustice
+    'CUSA12540_00', # Apex Legends
+    'CUSA11600_00', # FIFA 19
+    'CUSA07399_00', # Crash Trilogy
+    'CUSA01800_00', # Rainbow Six Siege
+    'CUSA00967_00', # Mortal Kombat X
+    'CUSA10608_00', # Conan Exiles
+    'CUSA00341_00', # Uncharted 4
+    'CUSA01623_00', # God of War III Remastered
+    'CUSA00552_00', # The Last Of US Remastered
+    'CUSA00223_00', # Infamous Second Son
+    'CUSA00496_00', # Far Cry 4
+    'CUSA00625_00', # Battlefield Hardline
+    'CUSA01493_00', # Just Cause 3
+    'CUSA02976_00', # HITMAN
+    'CUSA00325_00', # Outlast
+    'CUSA06623_00', # Outlast 2
+    'CUSA02337_00', # Resident Evil 0
+    'CUSA00220_00', # Dragon Age Inquisiton
+    'CUSA00107_00', # Tomb Raider Definitive
+    'CUSA01047_00', # Ratchet & Clank
+    'CUSA01799_00', # Deus Ex: Mankind Divided
+    'CUSA12476_00', # NBA 2K19
+    'CUSA02703_00', # Mad Max
+    'CUSA01140_00', # Metal Gear Solid V
+      
 ]
 
 urls = [
     # Top 50 Games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPGAMES?size=200&bucket=games&start=0&gameContentType=games&platform=ps4",
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPGAMES?size=200&bucket=games&start=0&gameContentType=games&platform=ps4",
     # PS+ Games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PSPLUSFREEGAMES?size=30&bucket=games&start=0&platform=ps4",
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PSPLUSFREEGAMES?size=30&bucket=games&start=0&platform=ps4",
     # Top 50 digital only games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPPSNGAMES?size=50&bucket=games&start=0&platform=ps4",
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPPSNGAMES?size=50&bucket=games&start=0&platform=ps4",
     # 10 newest free games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-GAMESFREETOPLAY?sort=release_date&direction=desc&size=10&bucket=games&start=0&platform=ps4",
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-GAMESFREETOPLAY?sort=release_date&direction=desc&size=10&bucket=games&start=0&platform=ps4",
     # Newest games this month
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-NEWTHISMONTH?game_content_type=games&size=100&bucket=games&start=0&platform=ps4",
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-NEWTHISMONTH?game_content_type=games&size=100&bucket=games&start=0&platform=ps4",
     # Coming soon
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PS3PSNPREORDERS?gameContentType=games&gameType=ps4_full_games%2Cpsn_games&releaseDate=coming_soon%2Clast_30_days&platform=ps4"
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PS3PSNPREORDERS?gameContentType=games&gameType=ps4_full_games%2Cpsn_games&releaseDate=coming_soon%2Clast_30_days&platform=ps4"
 ]
 
 image_dir = 'ps4'
