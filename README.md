@@ -1,3 +1,3 @@
 # PlayStationDiscord-Games
 
-Repository forked to support my personal game libray, due to Rich Presence 150 assets limit.
+Repository forked from @Tustin PlayStationDiscord-Games to support my personal game library, due to Rich Presence 150 assets limit.
