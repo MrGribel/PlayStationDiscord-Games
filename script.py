@@ -62,7 +62,67 @@ title_ids = [
     'CUSA12476_00', # NBA 2K19
     'CUSA02703_00', # Mad Max
     'CUSA01140_00', # Metal Gear Solid V
-      
+    'CUSA05794_00', # Rise of Tomb Raider
+    'CUSA08966_00', # Days Gone
+    'CUSA05855_00', # AC Origins
+    'CUSA09311_00', # AC Odyssey
+    'CUSA07671_00', # Wipeout Omega Collection
+    'CUSA05347_00', # Darksiders Remastered
+    'CUSA02420_00', # Darksiders 2 
+    'CUSA08880_00', # Darksiders 3
+    'CUSA01671_00', # Devil May Cry 4 SE
+    'CUSA08216_00', # Devil May Cry 5
+    'CUSA03333_00', # SOMA
+    'CUSA02533_00', # Heavy Rain
+    'CUSA03220_00', # GT Sport
+    'CUSA07713_00', # Monster Hunter World
+    'CUSA05877_00', # Persona 5
+    'CUSA00191_00', # Killzone Shadow Fall
+    'CUSA07113_00', # Nioh
+    'CUSA00785_00', # The Order 1886
+    'CUSA03507_00', # Bully
+    'CUSA03508_00', # GTA III
+    'CUSA03509_00', # GTA Vice City
+    'CUSA11518_00', # Mortal Kombat 11
+    'CUSA12047_00', # Sekiro Shadows Die Twice
+    'CUSA03388_00', # Dark Souls 3
+    'CUSA08155_00', # Dark Souls 3 Fire Fades
+    'CUSA08692_00', # Dark Souls Remastered
+    'CUSA13917_00', # Far Cry New Dawn
+    'CUSA03352_00', # Far Cry Primal
+    'CUSA05904_00', # Far Cry 5
+    'CUSA00021_00', # Watch Dogs
+    'CUSA04459_00', # Watch Dogs 2
+    'CUSA00744_00', # Minecraft
+    'CUSA01068_00', # Resident Evil HD   
+    'CUSA04885_00', # Resident Evil 4
+    'CUSA04437_00', # Resident Evil 5
+    'CUSA03856_00', # Resident Evil 6
+    'CUSA03962_00', # Resident Evil 7
+    'CUSA02845_00', # Super Meat Bot
+    'CUSA01037_00', # Surgeon Simulator
+    'CUSA03979_00', # Bioshock Colleciton
+    'CUSA00623_00', # Metro 2033
+    'CUSA00624_00', # Metro Last Light
+    'CUSA11408_00', # Metro Exodus
+    'CUSA13529_00', # Subnautica
+    'CUSA00203_00', # The Evil Within
+    'CUSA06166_00', # The Evil Within 2
+    'CUSA01940_00', # Shadows of Mordor GOTY
+    'CUSA04439_00', # Shadows of War
+    'CUSA01810_00', # Tom Clancy’s The Division
+    'CUSA12639_00', # Tom Clancy’s The Division 2
+    'CUSA02902_00', # Tom Clancy’s Ghost Recon Wildlands
+    'CUSA00314_00', # Wolfenstein The New Order
+    'CUSA07384_00', # Wolfenstein II: The New Colossus
+    'CUSA07385_00', # Dragon's Dogma: Dark Arisen
+    'CUSA05882_00', # Amnesia Collection
+    'CUSA05333_00', # Skyrim
+    'CUSA10938_00', # Shadow Of The Tomb Raider
+    'CUSA05008_00', # Assassin Creed Ezio Collection
+    'CUSA14081_00', # PUBG
+    'CUSA10158_00', # AC Rogue Remastered
+
 ]
 
 urls = [
