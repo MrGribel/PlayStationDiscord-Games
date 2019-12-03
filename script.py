@@ -122,7 +122,10 @@ title_ids = [
     'CUSA05008_00', # Assassin Creed Ezio Collection
     'CUSA14081_00', # PUBG
     'CUSA10158_00', # AC Rogue Remastered
-    'CUSA17167_00', # COD MW Beta
+    'CUSA08829_00', # COD Modern Warfare
+    'CUSA11260_00', # Death Stranding
+    'CUSA12539_00', # Star Wars Fallen Order
+    'CUSA04195_00', # Brawlhalla
 ]
 
 urls = [
