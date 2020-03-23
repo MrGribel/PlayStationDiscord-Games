@@ -126,6 +126,7 @@ title_ids = [
     'CUSA11260_00', # Death Stranding
     'CUSA12539_00', # Star Wars Fallen Order
     'CUSA04195_00', # Brawlhalla
+    'CUSA15559_00', # FIFA 20
 ]
 
 urls = [
